@@ -62,7 +62,7 @@ namespace ValidCheck
 
             if(isBox1NullFlg ^ isBox2NullFlg)
             {
-                MessageBox.Show("未入力項目があります。");
+                MessageBox.Show("未入力項目があります");
             }
         }
     }
