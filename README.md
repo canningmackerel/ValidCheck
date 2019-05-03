@@ -1,2 +1,2 @@
-# ValidCheck
-ValidCheck
+- OS:Windows 10
+- Framework: WPF
