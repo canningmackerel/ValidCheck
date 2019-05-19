@@ -7,4 +7,4 @@ Validation check
 - normal pattern  
 - use xor pattern  
 
-https://canning.hatenablog.jp/entry/2019/05/05/101820
+https://canning.hatenablog.jp/entry/2019/05/02/090745
